@@ -1,0 +1,5 @@
+{
+  "project_name": "my-supabase-project",
+  "region": "ap-northeast-1",
+  "features": ["authentication", "storage", "realtime", "database"]
+}
